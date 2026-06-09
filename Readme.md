@@ -5,7 +5,7 @@ An end-to-end AWS Data Engineering project implementing a **Medallion Architectu
 ## Architecture
 
 <p align="center">
-  <img src="images/YouTube Trending Data Pipeline.png" width="100%">
+  <img src="Images/YouTube Trending Data Pipeline.png" width="100%">
 </p>
 ---
 
