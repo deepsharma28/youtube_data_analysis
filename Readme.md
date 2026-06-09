@@ -2,6 +2,11 @@
 
 An end-to-end AWS Data Engineering project implementing a **Medallion Architecture (Bronze → Silver → Gold)** for YouTube Trending Analytics. The pipeline automates data ingestion, transformation, validation, aggregation, monitoring, and reporting using AWS services.
 
+## Architecture
+
+<p align="center">
+  <img src="images/Youtube Trending data Pipeline.png" width="100%">
+</p>
 ---
 
 ## 📑 Table of Contents
